@@ -23,7 +23,7 @@ This project implements a gesture-controlled version of Tic Tac Toe using Python
 
 1. Clone the repository
    ```
-   git clone https://github.com/<username>/tic-tac-toe-gesture
+   git clone https://github.com/vedzzz28/Gesture-based-Tic-Tac-Toe-
    ```
 2. Install dependencies
    ```
@@ -35,6 +35,7 @@ This project implements a gesture-controlled version of Tic Tac Toe using Python
 Run the main script:
 
 ```
+python camera.py
 python tic_tac_toe.py
 ```
 
@@ -49,9 +50,8 @@ Use ` Esc` key to quit.
 
 ## Authors
 
-  - [Your name](https://github.com/<username>)
-  
-See also the list of [contributors](https://github.com/<username>/tic-tac-toe-gesture/contributors) who participated in this project.
+  - Vedansh Rathi (https://github.com/vedzzz28)
+  - Shrey Sharma [Contributor]
 
 ## Acknowledgments
 
